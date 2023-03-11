@@ -1,0 +1,56 @@
+2023-03-10 11:13:32.277 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting MiaoshaApplicationTests on LAPTOP-B01UDEDI with PID 15344 (started by muyub in D:\university\Java_all\Java_proj\所有项目\秒杀模块\miaosha)
+2023-03-10 11:13:32.287 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2023-03-10 11:13:33.299 - INFO  [           main] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-10 11:13:33.304 - INFO  [           main] epositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-10 11:13:33.325 - INFO  [           main] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 JPA repository interfaces.
+2023-03-10 11:13:33.346 - INFO  [           main] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-10 11:13:33.349 - INFO  [           main] epositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-03-10 11:13:33.364 - INFO  [           main] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 4ms. Found 0 Redis repository interfaces.
+2023-03-10 11:13:33.507 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.mu.miaosha]' package. Please check your configuration.
+2023-03-10 11:13:33.782 - INFO  [           main] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 11:13:34.335 - INFO  [           main] c.a.d.p.DruidDataSource        : {dataSource-1} inited
+2023-03-10 11:13:34.582 - INFO  [           main] o.h.j.i.u.LogHelper            : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-10 11:13:34.682 - INFO  [           main] o.h.Version                    : HHH000412: Hibernate Core {5.4.9.Final}
+2023-03-10 11:13:34.868 - INFO  [           main] .a.c.r.j.JavaReflectionManager : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-03-10 11:13:35.012 - INFO  [           main] o.h.d.Dialect                  : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-03-10 11:13:35.257 - INFO  [           main] e.t.j.p.i.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-10 11:13:35.265 - INFO  [           main] stractEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-10 11:13:35.638 - WARN  [           main] figuration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-10 11:13:36.394 - INFO  [           main] edRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-03-10 11:13:36.880 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2023-03-10 11:13:37.629 - INFO  [           main] cumentationPluginsBootstrapper : Context refreshed
+2023-03-10 11:13:37.666 - INFO  [           main] cumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2023-03-10 11:13:37.701 - INFO  [           main] w.s.ApiListingReferenceScanner : Scanning for api listing references
+2023-03-10 11:13:38.178 - INFO  [           main] o.s.b.StartupInfoLogger        : Started MiaoshaApplicationTests in 6.374 seconds (JVM running for 9.262)
+2023-03-10 11:13:38.353 - INFO  [extShutdownHook] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2023-03-10 11:13:38.371 - INFO  [extShutdownHook] stractEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-10 11:13:38.376 - INFO  [extShutdownHook] c.a.d.p.DruidDataSource        : {dataSource-1} closing ...
+2023-03-10 11:13:38.385 - INFO  [extShutdownHook] c.a.d.p.DruidDataSource        : {dataSource-1} closed
+2023-03-10 11:24:02.114 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting MiaoshaApplicationTests on LAPTOP-B01UDEDI with PID 29264 (started by muyub in D:\university\Java_all\Java_proj\所有项目\秒杀模块\miaosha)
+2023-03-10 11:24:02.120 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2023-03-10 11:24:02.860 - INFO  [           main] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-10 11:24:02.863 - INFO  [           main] epositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-10 11:24:02.878 - INFO  [           main] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 JPA repository interfaces.
+2023-03-10 11:24:02.892 - INFO  [           main] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-10 11:24:02.893 - INFO  [           main] epositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-03-10 11:24:02.903 - INFO  [           main] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 3ms. Found 0 Redis repository interfaces.
+2023-03-10 11:24:03.025 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.mu.miaosha]' package. Please check your configuration.
+2023-03-10 11:24:03.311 - INFO  [           main] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 11:24:03.850 - INFO  [           main] c.a.d.p.DruidDataSource        : {dataSource-1} inited
+2023-03-10 11:24:04.061 - INFO  [           main] o.h.j.i.u.LogHelper            : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-10 11:24:04.130 - INFO  [           main] o.h.Version                    : HHH000412: Hibernate Core {5.4.9.Final}
+2023-03-10 11:24:04.285 - INFO  [           main] .a.c.r.j.JavaReflectionManager : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-03-10 11:24:04.434 - INFO  [           main] o.h.d.Dialect                  : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-03-10 11:24:04.636 - INFO  [           main] e.t.j.p.i.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-10 11:24:04.643 - INFO  [           main] stractEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-10 11:24:05.009 - WARN  [           main] figuration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-10 11:24:05.844 - INFO  [           main] edRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-03-10 11:24:06.220 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2023-03-10 11:24:06.918 - INFO  [           main] cumentationPluginsBootstrapper : Context refreshed
+2023-03-10 11:24:06.946 - INFO  [           main] cumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2023-03-10 11:24:06.980 - INFO  [           main] w.s.ApiListingReferenceScanner : Scanning for api listing references
+2023-03-10 11:24:07.148 - INFO  [           main] o.s.b.StartupInfoLogger        : Started MiaoshaApplicationTests in 5.477 seconds (JVM running for 7.423)
+2023-03-10 11:24:07.333 - INFO  [extShutdownHook] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2023-03-10 11:24:07.352 - INFO  [extShutdownHook] stractEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-10 11:24:07.354 - INFO  [extShutdownHook] c.a.d.p.DruidDataSource        : {dataSource-1} closing ...
+2023-03-10 11:24:07.364 - INFO  [extShutdownHook] c.a.d.p.DruidDataSource        : {dataSource-1} closed
